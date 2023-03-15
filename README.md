@@ -1,4 +1,4 @@
-Como Compilar o codigo através do jGrasp
+Como Compilar o codigo utilizando o jGrasp
 
 Com o arquivo Main.java aberto, clique no icone ![image](https://user-images.githubusercontent.com/71913845/224567424-428449a7-e0e3-4503-8f14-760883b042eb.png)
 
